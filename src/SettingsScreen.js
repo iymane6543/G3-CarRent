@@ -1,3 +1,4 @@
+// Modifié par Khaoula EL MAATAOUI
 import React, { useEffect, useState } from "react";
 import { View, Text, TextInput, Button, StyleSheet, Image, TouchableOpacity, Alert, Platform, ScrollView } from "react-native";
 import * as ImagePicker from 'expo-image-picker';
