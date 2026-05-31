@@ -1,3 +1,4 @@
+// Modifié par Khaoula EL MAATAOUI
 // SessionContext.js
 import React, { createContext, useState } from 'react';
 
