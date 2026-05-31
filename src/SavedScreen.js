@@ -201,4 +201,4 @@ const styles = StyleSheet.create({
     color: '#666',
     marginTop: 50,
   },
-});
+}); // Modifié par Khaoula EL MAATAOUI
