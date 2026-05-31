@@ -1,3 +1,5 @@
+// Module géré par Khaoula EL MAATAOUI — tests et réservations
+
 import React, { useEffect, useState, useContext } from "react";
 import { View, Text, TextInput, StyleSheet, Image, TouchableOpacity, Alert, Platform, ScrollView } from "react-native";
 import * as ImagePicker from 'expo-image-picker';
